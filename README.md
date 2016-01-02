@@ -40,7 +40,18 @@ Download the latest version of the installer. Install it. Easy.
 
 #### [Download and install SDK](http://developer.android.com/sdk/index.html)
 
-Scroll down to "Other Download Options" > "SDK Tools Only". Download the latest version of the installer. Unzip it to somewhere (remember that I recommend "C:\Cocos\tools"?).
+Scroll down to "Other Download Options" > "SDK Tools Only". Download the latest version of the installer. Unzip it to somewhere (remember that I recommend "C:\Cocos\tools"?). Using Android SDK Manager install some packages:
+
+* Android SDK Platform-tools
+* Android SDK Build-tools
+* SDK Platform of which version you plan to compile for
+* Important things lying beside SDK Platform like "System Image" and other shit (not sure about how much it's needed)
+* Android Support Library
+* Google USB Driver (that's the best one... for running apps on your phone on the fly through USB)
+
+The result must be something like this:
+
+![Android SDK Manager Gentlement's Set](http://i.imgur.com/mbkEzle.png)
 
 # Creating/running/compiling a project with Cocos Studio
 
