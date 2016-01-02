@@ -4,7 +4,7 @@ Welcome to the cocos2d-x installing guide!
 
 ### [Download and install Cocos2d-x and Cocos from official site](http://www.cocos2d-x.org/download)
 
-Cocos2d-x is for developing only. Cocos(Studio) is for designing mostly. I recommend "Cocos for Mac/Win with framework" option (they both are included).
+Cocos2d-x is for developing only. Cocos(Studio) is for designing mostly. I recommend both so you need to click "Cocos for Mac/Win with framework" download button (they are both included).
 
 ### [Download and install Python 2.7](https://www.python.org/downloads/)
 
