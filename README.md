@@ -20,7 +20,11 @@ That's minimal requirements for compiling cocos2d-x games for Windows:
 
 ![Common Tools for Visual C++ 2015](http://i.imgur.com/FaX9dBP.png)
 
-To be continued...
+You can use it for free forever but you must sign in at first start (microsoft account is free too). You will see something like this:
+
+![Visual Studio Community 2015 Personal Account Info](http://i.imgur.com/0SVSKre.png)
+
+Otherwise, you will be able to compile projects for windows only 30 days. I recommend you to sign in at once.
 
 ### If you plan to compile .apk for Android
 
