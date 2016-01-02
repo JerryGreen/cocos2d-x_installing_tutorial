@@ -53,6 +53,21 @@ The result must be something like this:
 
 ![Android SDK Manager Gentlement's Set](http://i.imgur.com/mbkEzle.png)
 
+### Set some variables for Cocos
+
+Open console (WinKey+R > cmd.exe). Write two commands:
+
+```
+cd C:\Cocos\frameworks\cocos2d-x-3.9
+setup.py
+```
+
+Paste full paths for your NDK, SDK, Ant consequentially. Cocos need to know what to use to compile for Android.
+
+![Setting up NDK, SDK, Ant variables for Cocos2d-x](http://i.imgur.com/O5NzYjF.png)
+
+Good job! You almost there!
+
 # Creating/running/compiling a project with Cocos Studio
 
 Start the Cocos Studio (finally!).
